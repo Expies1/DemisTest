@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'OpenSansBold';
+    src: url('../fonts/OpenSansBold.eot');
+    src: url('../fonts/OpenSansBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/OpenSansBold.woff2') format('woff2'),
+        url('../fonts/OpenSansBold.woff') format('woff'),
+        url('../fonts/OpenSansBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+@font-face {
+font-family: 'OpenSansReg';
+src: url('../fonts/OpenSansReg.eot');
+src: url('../fonts/OpenSansReg.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/OpenSansReg.woff2') format('woff2'),
+    url('../fonts/OpenSansReg.woff') format('woff'),
+    url('../fonts/OpenSansReg.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+font-family: 'OpenSansSemibold';
+src: url('../fonts/OpenSansSemibold.eot');
+src: url('../fonts/OpenSansSemibold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/OpenSansSemibold.woff2') format('woff2'),
+    url('../fonts/OpenSansSemibold.woff') format('woff'),
+    url('../fonts/OpenSansSemibold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SignikaNegativeRegular';
+    src: url('../fonts/SignikaNegativeRegular.eot');
+    src: url('../fonts/SignikaNegativeRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/SignikaNegativeRegular.woff2') format('woff2'),
+        url('../fonts/SignikaNegativeRegular.woff') format('woff'),
+        url('../fonts/SignikaNegativeRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SignikaNegativeSemibold';
+    src: url('../fonts/SignikaNegativeSemibold.eot');
+    src: url('../fonts/SignikaNegativeSemibold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/SignikaNegativeSemibold.woff2') format('woff2'),
+        url('../fonts/SignikaNegativeSemibold.woff') format('woff'),
+        url('../fonts/SignikaNegativeSemibold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TektonPro-BoldCond';
+    src: url('../fonts/TektonPro-BoldCond.eot');
+    src: url('../fonts/TektonPro-BoldCond.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/TektonPro-BoldCond.woff2') format('woff2'),
+        url('../fonts/TektonPro-BoldCond.woff') format('woff'),
+        url('../fonts/TektonPro-BoldCond.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Museo700-Regular';
+    src: url('../fonts/Museo700-Regular.eot');
+    src: url('../fonts/Museo700-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Museo700-Regular.woff2') format('woff2'),
+        url('../fonts/Museo700-Regular.woff') format('woff'),
+        url('../fonts/Museo700-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
